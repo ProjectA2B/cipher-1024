@@ -1,0 +1,24 @@
+PROJECT A2B — ARTWORK USE TERMS
+Copyright 2026 Project A2B
+
+These terms cover the original supplied PNG glyphs in braids/, circuits/,
+constellations/, fractures/, harpoons/, labyrinths/, monoliths/ and totems/,
+and cipher_master_32x32_512x512.png (the “Artwork”).
+
+You may use, copy, modify and recolor the Artwork free of charge in personal
+and commercial games, apps, ARGs, art projects and other creative projects.
+You may distribute and sell those projects with the Artwork incorporated,
+including as project asset files. Attribution or credit is not required.
+
+You may not reupload, share, redistribute or resell the Artwork as a standalone
+artwork pack, sprite collection, asset library or other product whose primary
+purpose is to provide these assets for reuse. This restriction applies to both
+the original Artwork and modified or recolored standalone versions. It does
+not prevent distributing a game, app or other creative project that uses it.
+
+These terms do not cover or restrict the MIT-licensed code. They also do not
+restrict independently generated procedural fallback output that does not
+copy or incorporate the supplied original Artwork. See LICENSE.txt for scope.
+
+The Artwork is provided as is, without warranty.
+

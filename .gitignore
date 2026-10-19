@@ -1,0 +1,32 @@
+# Private Legend keyfiles and common backup variants; never publish these.
+*.legend.json
+*.legend.json.*
+*.[lL][eE][gG][eE][nN][dD].[jJ][sS][oO][nN]
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editors, operating-system files and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.bak
+*.tmp
+*.swp
+*~
+
+# Personal encrypted output
+*.ciph
+*.CIPH
